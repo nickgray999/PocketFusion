@@ -22,7 +22,7 @@
 
 ### 3. Get the game files
 
-1. Sign in to GitHub and accept the invitation to this repository. Click the green **Code** button, then **Download ZIP**.
+1. [Download the PocketFusion ZIP](https://github.com/nickgray999/PocketFusion/archive/refs/heads/main.zip).
 2. In **Finder → Downloads**, double-click the ZIP if it hasn’t already opened. Find the extracted **PocketFusion-main** folder.
 3. Open **Terminal** on the Mac (press **Command + Space**, type **Terminal**, press **Return**). Type `cd` followed by **one space**, drag the extracted folder into Terminal, then press **Return**.
 4. Paste this one line into Terminal and press **Return**:
